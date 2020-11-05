@@ -1,10 +1,8 @@
 <h1 align="center">Satakshi Garg</h1>
 <h3 align="center">AR-VR Maniac | Cyber Security Guard | Google WTEF | DSC Tech Coordinator | IEEE Tech CSE Volunteer</h3>
-<img align="right" width="350" height = "550" src="portfolio.jpg">
+<img align="right" width="350" height = "500" src="portfolio.jpg">
 
 - 👨‍💻 Link to my Portfolio [https://portfolios.talentsprint.com/~satakshigarg/](https://portfolios.talentsprint.com/~satakshigarg/)
-
-- 📝 I regulary write articles on [https://satakshigarg.medium.com/](https://satakshigarg.medium.com/)
 
 - 📫 How to reach me **satakshigarg@outlook.com**
 
