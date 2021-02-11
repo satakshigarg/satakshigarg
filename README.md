@@ -2,7 +2,7 @@
 <h3 align="center">AR-VR Maniac | Cyber Security Guard | Google WTEF | DSC Tech Coordinator | IEEE Tech CSE Volunteer</h3>
 <img align="right" width="350" height = "500" src="portfolio.jpg">
 
-- 👨‍💻 Link to my Portfolio [https://portfolios.talentsprint.com/~satakshigarg/](https://portfolios.talentsprint.com/~satakshigarg/)
+- 👨‍💻 Link to my Portfolio [https://satakshigarg.netlify.app](https://satakshigarg.netlify.app)
 
 - 📫 How to reach me **satakshigarg@outlook.com**
 
