@@ -1,4 +1,4 @@
-<img align="center" width="3500" height = "700" src="graceSmile (1).jpg">
+<img align="center" width="3000" height = "500" src="graceSmile (1).jpg">
 
 <img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Satakshi</h2>
 
@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I love organising my work place and writing creative stuffs as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at iamsatakshigarg@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="3AyY.gif" align="right" width = "300" height = "160"/>
+<img alt="Night Coding" src="3AyY.gif" align="right" width = "300" height = "150"/>
 
 ### 🛠 &nbsp;Tech Stack
 
