@@ -1,4 +1,4 @@
-<img align="center" width="3000" height = "500" src="graceSmile (1).jpg">
+<img align="center" width="3000" height = "450" src="graceSmile (1).jpg">
 
 <img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Satakshi</h2>
 
@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://github.com/satakshigarg">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=satakshigarg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satakshigarg&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width = "450em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satakshigarg&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
