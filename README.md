@@ -1,4 +1,4 @@
-<img align="center" width="3000" height = "450" src="graceSmile (1).jpg">
+<img align="center" width="1100" height = "350" src="git.gif">
 
 <img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Satakshi</h2>
 
